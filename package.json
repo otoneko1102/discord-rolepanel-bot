@@ -1,0 +1,19 @@
+{
+  "name": "discord-rolepanel-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "otoneko.",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "discord-api-types": "^0.37.91",
+    "discord.js": "^13.17.1",
+    "fs-extra": "^11.2.0"
+  }
+}
